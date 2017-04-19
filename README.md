@@ -1,2 +1,2 @@
-# Yvonne-s-paintings
+# EpicPaintings
 Basic website for presenting art
